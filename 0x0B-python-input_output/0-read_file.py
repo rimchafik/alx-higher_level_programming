@@ -1,4 +1,5 @@
-d_file function container"""
+#!/usr/bin/python3
+"""The read_file function container"""
 
 
 def read_file(filename=""):
