@@ -1,1 +1,1 @@
-READ ME file for 0x0F-python-object_relational_mapping
+READ ME file for project 0x0F
